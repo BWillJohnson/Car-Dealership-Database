@@ -1,0 +1,2 @@
+SELECT *
+FROM Dealership d;

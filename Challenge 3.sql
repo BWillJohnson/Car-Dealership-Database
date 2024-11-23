@@ -1,0 +1,3 @@
+SELECT *
+FROM vehicle v
+WHERE v.Vin = "4D7QRTUVW67890138";
